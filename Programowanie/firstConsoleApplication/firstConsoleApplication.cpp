@@ -6,11 +6,15 @@
 int main()
 {
     std::cout << "Hello World!\n";
+std:cout << 'x';//stała znakowa-musi być jeden znak
+    std::cout << "\n";
+    std::cout << 257 << "\n"; //stała całkowita
+    std::cout << 12.5 << "\n"; //stała liczbowa rzeczywista
+    std::cout << "Nazywam sie Miko\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
-
 // Tips for Getting Started: 
 //   1. Use the Solution Explorer window to add/manage files
 //   2. Use the Team Explorer window to connect to source control
